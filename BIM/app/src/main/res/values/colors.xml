@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#554AA0</color>
+    <color name="colorPrimaryDark">#554AA0</color>
+    <color name="colorAccent">#554AA0</color>
+    <color name="LoginButton">#554AA0</color>
+    <color name="blanco">#FFF</color>
+    <color name="ponplata">#3BBFAD</color>
+    <color name="sacaplata">#E64783</color>
+</resources>
